@@ -15,7 +15,7 @@ learn stash
 
 DFDFDF
 
-fixed bug
+fixed bug bug2
 
 
 dfgg
