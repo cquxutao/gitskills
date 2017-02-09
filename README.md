@@ -1,3 +1,3 @@
 # gitskills
 learn git clone
-learn branch
+learn branch &
