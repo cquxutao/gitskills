@@ -11,7 +11,7 @@ new add3
 nre 
 dddddd
 
-learn stash
+learn stash haha 
 
 DFDFDF
 
